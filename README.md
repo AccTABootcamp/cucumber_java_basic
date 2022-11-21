@@ -31,14 +31,14 @@ in order to test that user can:
   * check that clear button on adding a user works correctly
 
 ### Setup 
-[see wiki](https://github.com/JanisDzalbe/cucumber_java_basic/wiki/Project-Setup)
+[see wiki](https://github.com/AccTABootcamp/cucumber_java_basic/wiki/Project-Setup)
 
 ---
 ### GIT
 
-[see wiki for Create-a-branch](https://github.com/JanisDzalbe/selenium_java_basic/wiki/Create-new-branch)
+[see wiki for Create-a-branch](https://github.com/AccTABootcamp/selenium_java_basic/wiki/Create-new-branch)
 
-[see wiki for Git-add-commit-pust](https://github.com/JanisDzalbe/selenium_java_basic/wiki/Commiting-code-and-pushing-to-remote)
+[see wiki for Git-add-commit-pust](https://github.com/AccTABootcamp/selenium_java_basic/wiki/Commiting-code-and-pushing-to-remote)
 
 
 
