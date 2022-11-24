@@ -1,4 +1,4 @@
-package stepDefinitions;
+package cucumber.stepDefinitions;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
@@ -12,7 +12,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.io.File;
 import java.net.MalformedURLException;
 import java.time.Duration;
-import java.util.concurrent.TimeUnit;
 
 public class Hooks {
     public static WebDriver driver;

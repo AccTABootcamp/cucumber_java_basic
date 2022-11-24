@@ -1,4 +1,4 @@
-package pages_sample;
+package cucumber.pages_sample;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
