@@ -55,10 +55,6 @@ public class ExamplesSteps {
         numberInput.sendKeys(String.valueOf(arg0));
     }
 
-    @And("I watch out for IntelliJ IDEA doing stupid things like interpreting {double} as two integers by replacing two ints with one double like in steps above")
-    public void iWatchOutForIntelliJIDEADoingStupidThingsLikeInterpretingAsTwoIntegersByReplacingTwoIntsWithOneDoubleLikeInStepsAbove(int arg0, int arg1) {
-    }
-
     @And("I click {adj} link")
     public void iClickGreatLink() {
     }
