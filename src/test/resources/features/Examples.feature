@@ -34,8 +34,6 @@ Feature: Examples for using stuff
     And I enter double 5555.55 into number field
     And I wait 3 seconds
     And I enter commadouble 7777,77 into number field
-    And I wait 3 seconds
-    And I watch out for IntelliJ IDEA doing stupid things like interpreting 55555.555 as two integers by replacing two ints with one double like in steps above
 
   Scenario: Go to Actions page 2
 #    When I go to URL "https://kristinek.github.io/site/examples/actions"
